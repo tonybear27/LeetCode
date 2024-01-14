@@ -12,3 +12,5 @@ Just want to record my `leetcode` record
 > Longest Common Prefix
 >
 > Valid Parentheses
+> 
+> Add Two Numbers
