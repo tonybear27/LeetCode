@@ -27,3 +27,5 @@ Just want to record my `leetcode` record
 > Minimum Depth of Binary Tree
 > 
 > Longest Substring Without Repeating Characters
+> 
+> Maximum Nesting Depth of the Parentheses
