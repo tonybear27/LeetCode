@@ -29,3 +29,16 @@ Just want to record my `leetcode` record
 > Longest Substring Without Repeating Characters
 > 
 > Maximum Nesting Depth of the Parentheses
+
+## 1/22, 2024
+> Path Sum
+>
+> Pascal's Triangle II
+> 
+> Best Time to Buy and Sell Stock
+>
+>
+>
+>
+>
+> 
