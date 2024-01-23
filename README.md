@@ -36,9 +36,14 @@ Just want to record my `leetcode` record
 > Pascal's Triangle II
 > 
 > Best Time to Buy and Sell Stock
+
+## 1/23, 2024
+> Linked List Cycle
 >
+> Intersection of Two Linked Lists
 >
->
->
->
+> Happy Number
 > 
+> Invert Binary Tree
+> 
+> Longest Palindrome Substring
