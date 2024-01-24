@@ -47,3 +47,10 @@ Just want to record my `leetcode` record
 > Invert Binary Tree
 > 
 > Longest Palindrome Substring
+
+## 1/24, 2024
+> Median of Two Sorted Arrays
+> 
+> Reverse Integer
+>
+> Regular Expression Matching
