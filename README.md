@@ -54,3 +54,12 @@ Just want to record my `leetcode` record
 > Reverse Integer
 >
 > Regular Expression Matching
+
+## 1/25, 2024
+> Container With Most Water
+> 
+> 3Sum
+>
+> 3Sum Closest
+>
+> Letter Combinations of a Phone Number
