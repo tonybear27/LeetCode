@@ -63,3 +63,12 @@ Just want to record my `leetcode` record
 > 3Sum Closest
 >
 > Letter Combinations of a Phone Number
+
+## 1/26, 2024
+> Summary Ranges
+> 
+> Binary Tree Paths
+>
+> First Bad Version
+>
+> World Pattern
