@@ -74,3 +74,16 @@ Just want to record my `leetcode` record
 > World Pattern
 >
 > Diameter of Binary Tree
+
+## 1/27, 2024
+> Unique Paths
+>
+> Intersection of Two Arrays
+>
+> Ransom Note
+>
+> Sum of Left Leaves
+>
+> Longest Palindrome
+> 
+> Find All Numbers Disappeared in an Array
