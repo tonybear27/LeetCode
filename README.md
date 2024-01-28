@@ -87,3 +87,14 @@ Just want to record my `leetcode` record
 > Longest Palindrome
 > 
 > Find All Numbers Disappeared in an Array
+
+## 1/28, 2024
+> License Key Formatting
+>
+> Teemo Attacking
+>
+> Find Mode in Binary Search Tree
+>
+> Minimum Absolute Difference in BST
+>
+> Maximum Depth of N-ary Tree
