@@ -123,3 +123,5 @@ Just want to record my `leetcode` record
 > Combination Sum
 >
 > Combination Sum II
+>
+> First Missing Positive
