@@ -102,3 +102,16 @@ Just want to record my `leetcode` record
 > Binary Tree Tilt
 >
 > Subtree of Another Tree
+
+## 1/29, 2024
+> Generate Parentheses
+>
+> Next Permutation
+>
+> Search in Rotated Sorted Array
+>
+> Find First and Last Position of Element in Sorted Array
+>
+> Count and Say
+>
+> Combination Sum
