@@ -102,3 +102,9 @@ Just want to record my `leetcode` record
 > Binary Tree Tilt
 >
 > Subtree of Another Tree
+>
+> Remove Nth Node From End of List
+>
+> Swap Nodes with Pairs
+>
+> String to Integer (atoi)
