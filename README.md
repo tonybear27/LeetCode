@@ -140,3 +140,7 @@ Just want to record my `leetcode` record
 > Group Anagrams
 >
 > Minimum Path Sum
+>
+> Simplify Path
+>
+> Combinations
