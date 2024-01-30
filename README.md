@@ -132,3 +132,6 @@ Just want to record my `leetcode` record
 > Multiply Strings
 > 
 > Jump Game II
+
+
+## Total: 60 Problems
