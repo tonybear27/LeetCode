@@ -125,3 +125,10 @@ Just want to record my `leetcode` record
 > Combination Sum II
 >
 > First Missing Positive
+
+## 1/30, 2024
+> Zigzag Conversion
+>
+> Multiply Strings
+> 
+> Jump Game II
