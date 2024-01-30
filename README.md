@@ -1,6 +1,7 @@
 # Moi Leetcode
 
 Just want to record my `leetcode` record 
+## Current: 60 Problems
 
 ## 1/14, 2024
 > Two Sum
@@ -132,6 +133,3 @@ Just want to record my `leetcode` record
 > Multiply Strings
 > 
 > Jump Game II
-
-
-## Total: 60 Problems
