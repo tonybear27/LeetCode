@@ -144,3 +144,10 @@ Just want to record my `leetcode` record
 > Simplify Path
 >
 > Combinations
+
+## 1/31, 2024
+> Daily Temperatures 
+>
+> Merge k Sorted Lists
+>
+> Subsets
