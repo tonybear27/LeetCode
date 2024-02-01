@@ -10,33 +10,18 @@
  */
 class Solution {
 public:
-    
-    int length(ListNode* root) {
-        int len = 0;
-        ListNode* head = root;
-        while(head) {
-            len++;
-            head = head->next;
+    ListNode* swapPairs(ListNode* head) {
+        ListNode* cur = head;
+        while(cur && cur->next) {
+            int num1 = cur->val;
+            int num2 = cur->next->val;
+
+            cur->val = num2;
+            cur = cur->next;
+
+            cur->val = num1;
+            cur = cur->next;
         }
-
-        return len;
-    }
-
-    ListNode* removeNthFromEnd(ListNode* head, int n) {
-        int len = length(head);
-        if(len == 1) return nullptr;
-        if(len == n) return head->next;
-
-        int cnt = 0;
-        ListNode* ptr = head;
-        
-        /*** Find the position ***/
-        while(cnt < len - n - 1) {
-            ptr = ptr->next;
-            cnt++;
-        }
-
-        ptr->next = ptr->next->next;
 
         return head;
     }
