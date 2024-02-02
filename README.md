@@ -133,7 +133,7 @@ Just want to record my `leetcode` record
 > 
 > Jump Game II
 >
-> All Permutation
+> Permutations
 >
 > Permutations II
 >
