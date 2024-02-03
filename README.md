@@ -2,6 +2,10 @@
 
 Just want to record my `leetcode` record 
 
+<details>
+<summary>Record of January, 2024</summary>
+
+```
 ## 1/14, 2024
 > Two Sum
 > 
@@ -151,6 +155,8 @@ Just want to record my `leetcode` record
 > Merge k Sorted Lists
 >
 > Subsets
+```
+</details>
 
 ## 2/2, 2024
 > Reverse Linked List II
