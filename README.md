@@ -152,3 +152,20 @@ Just want to record my `leetcode` record
 >
 > Subsets
 
+## 2/2, 2024
+> Reverse Linked List II
+>
+> Longest Subsequence With Limited Sum
+>
+> Check Distances Between Same Letters
+>
+> Partition Array for Maximum Sum
+
+## 2/3, 2024
+> Partition List
+>
+> Reduction Operations to Make the Array Elements Equal
+>
+> Four Divisors
+>
+> Count Nice Pairs in an Array
