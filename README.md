@@ -156,6 +156,8 @@ Just want to record my `leetcode` record
 > Subsets
 </details>
 
+<details>
+<summary>Record of February, 2024</summary>
 ## 2/2, 2024
 > Reverse Linked List II
 >
@@ -169,6 +171,7 @@ Just want to record my `leetcode` record
 > Partition List
 >
 > Reduction Operations to Make the Array Elements Equal
+</details>
 >
 > Four Divisors
 >
