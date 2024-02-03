@@ -171,8 +171,8 @@ Just want to record my `leetcode` record
 > Partition List
 >
 > Reduction Operations to Make the Array Elements Equal
-</details>
 >
 > Four Divisors
 >
 > Count Nice Pairs in an Array
+</details>
