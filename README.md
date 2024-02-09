@@ -176,4 +176,13 @@ Just want to record my `leetcode` record
 > Four Divisors
 >
 > Count Nice Pairs in an Array
+
+## 2/9, 2024
+> Largest Divisible Subset
+>
+> Smallest String Starting From Leaf
+>
+> Perfect Squares
+>
+> Sort Characters By Frequency
 </details>
