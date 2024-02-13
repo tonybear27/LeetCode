@@ -185,4 +185,13 @@ Just want to record my `leetcode` record
 > Perfect Squares
 >
 > Sort Characters By Frequency
+
+## 2/13, 2024
+> Print Binary Tree
+>
+> Cherry Pickup II
+>
+> Path Sum II
+>
+> Palindromic Substrings
 </details>
