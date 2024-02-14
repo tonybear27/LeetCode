@@ -203,4 +203,6 @@ Just want to record my `leetcode` record
 > Delete Leaves With a Given Value
 >
 > Verify Preorder Serialization of a Binary Tree
+> 
+> Merge Intervals
 </details>
