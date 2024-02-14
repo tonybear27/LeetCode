@@ -194,4 +194,13 @@ Just want to record my `leetcode` record
 > Path Sum II
 >
 > Palindromic Substrings
+
+## 2/14, 2024
+> Rearrange Array Elements by Sign
+>
+> Binary Tree Cameras
+>
+> Delete Leaves With a Given Value
+>
+> Verify Preorder Serialization of a Binary Tree
 </details>
