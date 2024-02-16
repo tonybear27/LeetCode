@@ -205,4 +205,13 @@ Just want to record my `leetcode` record
 > Verify Preorder Serialization of a Binary Tree
 > 
 > Merge Intervals
+
+## 2/16, 2024
+> Find Polygon With the Largest Perimeter
+>
+> Numbers With Same Consecutive Differences
+>
+> Least Number of Unique Integers after K Removals
+>
+> Redistribute Characters to Make All Strings Equal
 </details>
