@@ -223,4 +223,13 @@ Just want to record my `leetcode` record
 > Find Largest Value in Each Tree Row
 >
 > Flip Equivalent Binary Trees
+
+## 2/19, 2024
+> Flatten Binary Tree to Linked List
+>
+> Binary Tree Level Order Traversal
+>
+> Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+>
+> Binary Tree Right Side View
 </details>
