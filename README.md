@@ -232,4 +232,14 @@ Just want to record my `leetcode` record
 > Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 >
 > Binary Tree Right Side View
+
+## 2/21, 2024
+> Construct Binary Tree from Preorder and Inorder Traversal
+>
+> Convert BST to Greater Tree
+>
+> Set Matrix Zeroes
+>
+> Bitwise AND of Numbers Range
+
 </details>
