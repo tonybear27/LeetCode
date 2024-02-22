@@ -242,4 +242,12 @@ Just want to record my `leetcode` record
 >
 > Bitwise AND of Numbers Range
 
+## 2/22, 2024
+> Balance a Binary Search Tree
+>
+> Count Good Nodes in Binary Tree
+>
+> Merge Two Binary Trees
+>
+> Find the Town Judge
 </details>
