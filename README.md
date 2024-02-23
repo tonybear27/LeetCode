@@ -257,4 +257,6 @@ Just want to record my `leetcode` record
 > Decode the Slanted Ciphertext
 >
 > Flip Binary Tree To Match Preorder Traversal
+>
+> Pseudo-Palindromic Paths in a Binary Tree
 </details>
