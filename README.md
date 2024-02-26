@@ -259,4 +259,13 @@ Just want to record my `leetcode` record
 > Flip Binary Tree To Match Preorder Traversal
 >
 > Pseudo-Palindromic Paths in a Binary Tree
+
+## 2/26, 2024
+> Find All People With Secret
+>
+> Maximum Width of Binary Tree
+>
+> Greatest Common Divisor Traversal
+>
+> Remove Colored Pieces if Both Neighbors are the Same Color
 </details>
