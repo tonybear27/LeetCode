@@ -268,4 +268,12 @@ Just want to record my `leetcode` record
 > Greatest Common Divisor Traversal
 >
 > Remove Colored Pieces if Both Neighbors are the Same Color
+
+## 2/29, 2024
+> Minimum Moves to Equal Array Elements
+>
+> Find Bottom Left Tree Value
+>
+> Even Odd Tree
+
 </details>
