@@ -275,5 +275,45 @@ Just want to record my `leetcode` record
 > Find Bottom Left Tree Value
 >
 > Even Odd Tree
+</details>
 
+<details>
+<summary>Record of March, 2024</summary>
+> Bag of Tokens
+> 
+> Minimum Length of String After Deleting Similar Ends
+>
+> Custom Sort String
+>
+> Remove Zero Sum Consecutive Nodes from Linked List
+>
+> Binary Subarrays With Sum
+> 
+> Product of Array Except Self
+>
+> Contiguous Array
+>
+> Insert Interval
+> 
+> Minimum Number of Arrows to Burst Balloons
+>
+> Task Scheduler
+>
+> Merge In Between Linked Lists
+>
+> Reorder List
+>
+> Find the Duplicate Number
+>
+> Find All Duplicates in an Array
+>
+> Subarray Product Less Than K
+>
+> Length of Longest Subarray With at Most K Frequency
+>
+> Count Subarrays Where Max Element Appears at Least K Times
+>
+> Subarrays with K Different Integers
+>
+> Count Subarrays With Fixed Bounds
 </details>
