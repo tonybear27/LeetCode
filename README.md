@@ -318,3 +318,45 @@ Just want to record my `leetcode` record
 >
 > Count Subarrays With Fixed Bounds
 </details>
+
+<details>
+<summary>Record of April, 2024</summary>
+
+> Word Search
+>
+> Minimum Remove to Make Valid Parentheses
+>
+> Valid Parenthesis String
+>
+> Reveal Cards In Increasing Order
+>
+> Remove K Digits
+>
+> Trapping Rain Water
+>
+> Maximal Rectangle
+> 
+> Sum Root to Leaf Numbers
+>
+> Add One Row to Tree
+>
+> Number of Islands
+>
+> Find All Groups of Farmland
+>
+> Open the Lock
+>
+> Minimum Height Trees
+>
+> Longest Ideal Subsequence
+>
+> Minimum Falling Path Sum II
+>
+> Freedom Trail
+>
+> Sum of Distances in Tree
+>
+> Minimum Number of Operations to Make Array XOR Equal to K
+>
+> Number of Wonderful Substrings
+</details>
