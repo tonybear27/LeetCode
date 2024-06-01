@@ -360,3 +360,52 @@ Just want to record my `leetcode` record
 >
 > Number of Wonderful Substrings
 </details>
+
+<details>
+<summary>Record of April, 2024</summary>
+
+> Compare Version Numbers
+>
+> Boats to Save People
+>
+> Delete Node in a Linked List
+>
+> Remove Nodes From Linked List
+>
+> Double a Number Represented as a Linked List
+>
+> Maximize Happiness of Selected Children
+>
+> K-th Smallest Prime Fraction
+>
+> Minimum Cost to Hire K Workers
+>
+> Score After Flipping Matrix
+>
+> Find the Safest Path in a Grid
+>
+> Path with Maximum Gold
+>
+> Distribute Coins in Binary Tree
+>
+> Find the Maximum Sum of Node Values
+> 
+> Palindrome Partitioning
+>
+> The Number of Beautiful Subsets
+>
+> Maximum Score Words Formed by Letters 
+>
+> Word Break II
+>
+> Student Attendance Record II
+>
+> Get Equal Substrings Within Budget
+>
+> Number of Steps to Reduce a Number in Binary Representation to One
+>
+> Count Triplets That Can Form Two Arrays of Equal XOR
+>
+> Single Number III
+
+</details>
