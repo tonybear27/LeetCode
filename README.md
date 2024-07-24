@@ -409,3 +409,49 @@ Just want to record my `leetcode` record
 > Single Number III
 
 </details>
+
+<details>
+<summary>Record of June, 2024</summary>
+
+> Append Characters to String to Make Subsequence
+> 
+> Hand of Straights
+>
+> Replace Words
+>
+> Continuous Subarray Sum
+>
+> Subarray Sums Divisible by K
+>
+> Sort Colors
+>
+> Minimum Increment to Make Array Unique
+>
+> IPO
+>
+> Patching Array
+>
+> Sum of Square Numbers
+> 
+> Most Profit Assigning Work
+>
+> Minimum Number of Days to Make m Bouquets
+>
+> Magnetic Force Between Two Balls
+>
+> Grumpy Bookstore Owner
+>
+> Count Number of Nice Subarrays
+>
+> Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+>
+> Minimum Number of K Consecutive Bit Flips
+>
+> Binary Search Tree to Greater Sum Tree
+>
+> Maximum Total Importance of Roads
+>
+> All Ancestors of a Node in a Directed Acyclic Graph
+>
+> Remove Max Number of Edges to Keep Graph Fully Traversable
+</details>
